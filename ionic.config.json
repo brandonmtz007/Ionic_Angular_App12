@@ -1,0 +1,7 @@
+{
+  "name": "llamadahttpreto",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
